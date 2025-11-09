@@ -1,0 +1,23 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+101,Juan Pérez,22,M,juanperez@mail.com,2003-04-10
+102,Laura Gómez,25,F,lauragomez@mail.com,2000-02-20
+103,Camilo Ruiz,30,M,camiloruiz@mail.com,1995-07-14
+104,Sofía Martínez,19,F,sofiamartinez@mail.com,2006-01-09
+105,Carlos Hernández,27,M,carloshernandez@mail.com,1998-05-22
+106,Valentina Torres,23,F,valentinatorres@mail.com,2002-09-13
+107,Andrés López,29,M,andreslopez@mail.com,1996-11-25
+108,Mariana Rojas,21,F,marianarojas@mail.com,2004-03-30
+109,Felipe Castro,26,M,felipecastro@mail.com,1999-07-11
+110,Daniela Ramírez,24,F,danielaramirez@mail.com,2001-12-05
+111,José Morales,32,M,josemorales@mail.com,1993-10-19
+112,Isabella Fernández,20,F,isabellafernandez@mail.com,2005-04-28
+113,David Ortiz,28,M,davidortiz@mail.com,1997-02-16
+114,Natalia Vargas,22,F,nataliavargas@mail.com,2003-06-09
+115,Esteban Salazar,25,M,estebansalazar@mail.com,2000-09-27
+116,Lucía Navarro,23,F,lucianavarro@mail.com,2002-05-01
+117,Santiago Rivera,27,M,santiagorivera@mail.com,1998-11-03
+118,Juliana Mendoza,24,F,julianamendoza@mail.com,2001-08-15
+119,Tomás Cabrera,30,M,tomascabrera@mail.com,1995-12-20
+120,Paula Castaño,21,F,paulacastano@mail.com,2004-07-07
+
+

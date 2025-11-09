@@ -1,0 +1,21 @@
+cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+201,Introducción a la Programación,Conceptos básicos de programación.,Básico,2022,4.5
+202,Data Science Fundamentos,Introducción a ciencia de datos.,Intermedio,2023,4.4
+203,Marketing Digital 101,Estrategias básicas de marketing online.,Básico,2021,4.2
+204,Álgebra Lineal,Álgebra aplicada a la informática.,Intermedio,2020,4.1
+205,UX/UI Design,Principios de diseño de interfaces.,Intermedio,2023,4.6
+206,Emprendimiento y Lean Startup,Cómo lanzar un proyecto.,Avanzado,2019,4.3
+207,Inglés Básico,Curso básico de inglés.,Básico,2024,4.7
+208,Aprendizaje Automático,Modelos y algoritmos ML.,Avanzado,2022,4.5
+209,Visualización de Datos,Herramientas para presentar datos.,Intermedio,2021,4.2
+210,Bases de Datos NoSQL,Modelos y usos de NoSQL.,Intermedio,2020,4.0
+211,Redes Neuronales,Deep learning desde cero.,Avanzado,2023,4.6
+212,SEO Avanzado,Optimización para motores de búsqueda.,Avanzado,2022,4.1
+213,Estadística Aplicada,Estadística para análisis de datos.,Intermedio,2018,4.0
+214,Photoshop desde Cero,Edición de imágenes y retoque.,Básico,2019,4.3
+215,Gestión de Proyectos,Scrum y metodologías ágiles.,Intermedio,2021,4.2
+216,Finanzas Personales,Administración del dinero.,Básico,2020,4.4
+217,Seguridad Informática,Fundamentos de ciberseguridad.,Avanzado,2024,4.6
+218,Python para Ciencia de Datos,Python aplicado a datos.,Intermedio,2022,4.5
+219,Comunicación Efectiva,Habilidades de comunicación oral.,Básico,2017,4.0
+220,Nutrición y Salud,Principios de nutrición humana.,Básico,2021,4.2
